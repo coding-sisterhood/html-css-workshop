@@ -2,7 +2,7 @@
 
 Create a Superheroes page about your team using HTML and CSS
 
-## HTML
+## Page structure: HTML
 
 1. Create a folder called `superheroes` and a file called `index.html` inside the folder.
 
@@ -80,8 +80,29 @@ Enclose `We are` and `Our superpowers are` into `<b>` (bold) tags.
     <p><b>Our superpowers are</b>: optimism, ReactJS and gardening skills</p>
 ```
 
-## CSS
+## Page styling: CSS
 
 Let's prettify your page using some CSS!
 
-... to be continued, some simple css here (e.g., centering. May be flex-box)
+1. Create `index.css` file inside your `superheros` folder. Define your first style there:
+
+```
+    h1 {
+        color: violet;
+    }
+
+```
+
+This style overrides default black colour of the header.
+
+2. Import your css file in .html file. Inside `<head>` tag, add:
+
+```
+    <link rel="stylesheet" href="./index.css">
+```
+
+Update your browser page and see how the color of the header changed.
+
+3. Similar to changing the colour of the header (`h1`), add style to update the colour of the paragraphs (`p`).
+
+4. Some extra tasks here with references to the corresponding sources?
