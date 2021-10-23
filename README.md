@@ -6,7 +6,7 @@ Create a Superheroes page about your team using HTML and CSS
 
 1. Create a folder called `superheroes` and a file called `index.html` inside the folder.
 
-Add the skeleton of your html file: <html> tag containing <head> and <body> tags.
+Add the skeleton of your html file: `<html>` tag containing `<head>` and `<body>` tags.
 
 ```
 <html>
@@ -19,11 +19,11 @@ Save changes to your file.
 
 Right click on the file and choose `Open with -> Googl Chrome` (or any other Internet browser you use). You will see a blank page.
 
-Right click on the page in the browser and select `Inspect` option. You will see <html> tag containing empty <head> and <body> tags.
+Right click on the page in the browser and select `Inspect` option. You will see `<html>` tag containing empty `<head>` and `<body>` tags.
 
 2. Let's add some elements to our blank page!
 
-Inside the <body> tag, add a <p> tag that contains the name of the project:
+Inside the `<body>` tag, add a `<p>` tag that contains the name of the project:
 
 ```
 <html>
@@ -38,7 +38,7 @@ Inside the <body> tag, add a <p> tag that contains the name of the project:
 
 3. Now let's add photos of your team members. Inside your `superheroes` folder, create a folder called `images`. Now add photos of each teammate there. Be creative! You can use someone's mobile phone to take photos and then send them to the Coding Sisterhood Slack channel so that they can be accessed from your laptop.
 
-4. Add photos to your .html file. After the `p` element, add <image /> tag with the corresponding information about the source of the image. For example, if the photo's name is `my-best-photo.jpeg`, you need to add
+4. Add photos to your .html file. After the `p` element, add `<image />` tag with the corresponding information about the source of the image. For example, if the photo's name is `my-best-photo.jpeg`, you need to add
 
 ```
     <image src="./images/my-best-photo.jpeg" />
@@ -56,7 +56,7 @@ In case your photos are too large or differ in size, you can assign them a fixed
     <image width="200px" src="./images/my-best-photo3.jpeg" />
 ```
 
-5. After the images, add information about your superhero team members' names and superpowers. Use <p> to structure your paragraphs. E.g.,
+5. After the images, add information about your superhero team members' names and superpowers. Use `<p>` to structure your paragraphs. E.g.,
 
 ```
     <p>We are: Tania, Kah Men and Kateryna</p>
@@ -65,7 +65,7 @@ In case your photos are too large or differ in size, you can assign them a fixed
 
 6. Format your data.
 
-Use <h1> (tp-level header) tag instead of <p> (paragraph) for the project name:
+Use `<h1>` (top-level header) tag instead of `<p>` (paragraph) for the project name:
 
 ```
     <h1>Superheroes</h1>
@@ -73,7 +73,7 @@ Use <h1> (tp-level header) tag instead of <p> (paragraph) for the project name:
 
 Refresh your browser page to see how it looks now.
 
-Enclose `We are` and `Our superpowers are` into <b> (bold) tags.
+Enclose `We are` and `Our superpowers are` into `<b>` (bold) tags.
 
 ```
     <p><b>We are</b>: Tania, Kah Men and Kateryna</p>
