@@ -1,10 +1,10 @@
 # HTML & CSS workshop: Superheroes project
 
-Create a Superheroes page about your team using HTML and CSS
+Create a Superheroines page about your team using HTML and CSS
 
 ## Page structure: HTML
 
-1. Create a folder called `superheroes` and a file called `index.html` inside the folder.
+1. Create a folder called `superheroines` and a file called `index.html` inside the folder.
 
 Add the skeleton of your html file: `<html>` tag containing `<head>` and `<body>` tags.
 
@@ -17,7 +17,7 @@ Add the skeleton of your html file: `<html>` tag containing `<head>` and `<body>
 
 Save changes to your file.
 
-Right click on the file and choose `Open with -> Googl Chrome` (or any other Internet browser you use). You will see a blank page.
+Right click on the file and choose `Open with -> Google Chrome` (or any other Internet browser you use). You will see a blank page.
 
 Right click on the page in the browser and select `Inspect` option. You will see `<html>` tag containing empty `<head>` and `<body>` tags.
 
@@ -36,7 +36,7 @@ Inside the `<body>` tag, add a `<p>` tag that contains the name of the project:
 
 `p` element stands for the paragraph.
 
-3. Now let's add photos of your team members. Inside your `superheroes` folder, create a folder called `images`. Now add photos of each teammate there. Be creative! You can use someone's mobile phone to take photos and then send them to the Coding Sisterhood Slack channel so that they can be accessed from your laptop.
+3. Now let's add photos of your team members. Inside your `superheroines` folder, create a folder called `images`. Now add photos of each teammate there. Be creative! You can use someone's mobile phone to take photos and then send them to the Coding Sisterhood Slack channel so that they can be accessed from your laptop.
 
 4. Add photos to your .html file. After the `p` element, add `<image />` tag with the corresponding information about the source of the image. For example, if the photo's name is `my-best-photo.jpeg`, you need to add
 

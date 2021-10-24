@@ -1,6 +1,6 @@
 body {
   margin-bottom: 100px;
-  background-image: url("/assets/background.jpeg");
+  background-image: url("./assets/background.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -47,7 +47,7 @@ section {
 
 h1 {
   color: #ff44b6;
-  text-align: center;
+  font-size: 30px;
 }
 
 p {
@@ -77,6 +77,11 @@ td {
   width: 200px;
   padding-top: 10px;
   padding-bottom: 10px;
+  font-size: 20px;
+}
+
+li {
+  padding: 5px;
 }
 
 #kahmen-bio,
