@@ -1,6 +1,16 @@
-# HTML & CSS workshop: Superheroes project
+# HTML & CSS workshop: Superheroines project
 
-Create a Superheroines page about your team using HTML and CSS
+Create a Superheroines page about your team using HTML and CSS!
+
+You will have an hour to complete your superhero team page.
+
+At the end of the exercise, you will share your superhero page on the big screen and talk about what you have learned.
+
+# Requirements
+
+- code editor (we recommend Visual Studio Code)
+- internet browser
+- teams of 3
 
 ## Page structure: HTML
 
@@ -29,7 +39,7 @@ Inside the `<body>` tag, add a `<p>` tag that contains the name of the project:
 <html>
     <head></head>
     <body>
-        <p>Superheroes</p>
+        <p>Superheroines</p>
     <body>
 </html>
 ```
@@ -56,7 +66,7 @@ In case your photos are too large or differ in size, you can assign them a fixed
     <image width="200px" src="./images/my-best-photo3.jpeg" />
 ```
 
-5. After the images, add information about your superhero team members' names and superpowers. Use `<p>` to structure your paragraphs. E.g.,
+5. After the images, add information about your superheroine team members' names and superpowers. Use `<p>` to structure your paragraphs. E.g.,
 
 ```
     <p>We are: Tania, Kah Men and Kateryna</p>
@@ -68,7 +78,7 @@ In case your photos are too large or differ in size, you can assign them a fixed
 Use `<h1>` (top-level header) tag instead of `<p>` (paragraph) for the project name:
 
 ```
-    <h1>Superheroes</h1>
+    <h1>Superheroines</h1>
 ```
 
 Refresh your browser page to see how it looks now.
@@ -84,7 +94,7 @@ Enclose `We are` and `Our superpowers are` into `<b>` (bold) tags.
 
 Let's prettify your page using some CSS!
 
-1. Create `index.css` file inside your `superheros` folder. Define your first style there:
+1. Create `index.css` file inside your `superheroines` folder. Define your first style there:
 
 ```
     h1 {
