@@ -19,7 +19,8 @@ At the end of the exercise, you will share your superhero page on the big screen
 Add the skeleton of your html file: `<html>` tag containing `<head>` and `<body>` tags.
 
 ```
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head></head>
     <body><body>
 </html>
@@ -36,7 +37,8 @@ Right click on the page in the browser and select `Inspect` option. You will see
 Inside the `<body>` tag, add a `<p>` tag that contains the name of the project:
 
 ```
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head></head>
     <body>
         <p>Superheroines</p>
@@ -115,4 +117,46 @@ Update your browser page and see how the color of the header changed.
 
 3. Similar to changing the colour of the header (`h1`), add style to update the colour of the paragraphs (`p`).
 
-4. Some extra tasks here with references to the corresponding sources?
+4. Well done for reaching this step!! If you want to do more, check out the Cool Extra Stuff Exercise
+
+# Cool Extra Stuff Exercise
+
+You can open the template on your web browser and look at the code (using `Inspect`) as a guide.
+
+References:
+
+### HTML
+
+[Everything](https://www.w3schools.com/html/default.asp)
+
+[Images](https://www.w3schools.com/html/html_images.asp)
+
+[Tables](https://www.w3schools.com/html/html_tables.asp)
+
+[Lists](https://www.w3schools.com/html/html_lists.asp)
+
+[class Attribute](https://www.w3schools.com/html/html_classes.asp)
+
+[id Attribute](https://www.w3schools.com/html/html_id.asp)
+
+[<div> tag](https://www.w3schools.com/tags/tag_div.ASP)
+
+[<section> tag](https://www.w3schools.com/tags/tag_section.asp)
+
+### CSS
+
+[Everything](https://www.w3schools.com/css/default.asp)
+
+[Selectors](https://www.w3schools.com/css/css_selectors.asp)
+
+[How to Use](https://www.w3schools.com/css/css_howto.asp)
+
+[Colors](https://www.w3schools.com/css/css_colors.asp)
+
+[Height and Width](https://www.w3schools.com/css/css_dimension.asp)
+
+[Text](https://www.w3schools.com/css/css_text.asp)
+
+[Tables](https://www.w3schools.com/css/css_table.asp)
+
+[Specificity](https://www.w3schools.com/css/css_specificity.asp)
