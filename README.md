@@ -121,9 +121,10 @@ Update your browser page and see how the color of the header changed.
 
 # Cool Extra Stuff Exercise
 
-You can open the template on your web browser and look at the code (using `Inspect`) as a guide.
+1. Navigate to our [extra example](https://github.com/coding-sisterhood/html-css-workshop/tree/template/example_extra)
+2. Open `template.html` in your web browser and look at the code (using `Inspect`) as a guide. Take inspiration from there to style you page.
 
-References:
+References for further learning:
 
 ### HTML
 
