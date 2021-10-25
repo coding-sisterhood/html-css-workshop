@@ -2,9 +2,9 @@
 
 Create a Superheroines page about your team using HTML and CSS!
 
-You will have an hour to complete your superhero team page.
+You will have an hour to complete your superheroines team page.
 
-At the end of the exercise, you will share your superhero page on the big screen and talk about what you have learned.
+At the end of the exercise, you will share your superheroines page on the big screen and talk about what you have learned.
 
 # Requirements
 
