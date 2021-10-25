@@ -50,10 +50,10 @@ Inside the `<body>` tag, add a `<p>` tag that contains the name of the project:
 
 3. Now let's add photos of your team members. Inside your `superheroines` folder, create a folder called `images`. Now add photos of each teammate there. Be creative! You can use someone's mobile phone to take photos and then send them to the Coding Sisterhood Slack channel so that they can be accessed from your laptop.
 
-4. Add photos to your .html file. After the `p` element, add `<image />` tag with the corresponding information about the source of the image. For example, if the photo's name is `my-best-photo.jpeg`, you need to add
+4. Add photos to your .html file. After the `p` element, add `<img />` tag with the corresponding information about the source of the image. For example, if the photo's name is `my-best-photo.jpeg`, you need to add
 
 ```
-    <image src="./images/my-best-photo.jpeg" />
+    <img src="./images/my-best-photo.jpeg" />
 ```
 
 Save the file and refresh the page - you should see the photo now.
@@ -63,9 +63,9 @@ Add the rest of the photos after the first one using the same approach.
 In case your photos are too large or differ in size, you can assign them a fixed width to mae them look better. Here is an example:
 
 ```
-    <image width="200px" src="./images/my-best-photo.jpeg" />
-    <image width="200px" src="./images/my-best-photo2.jpeg" />
-    <image width="200px" src="./images/my-best-photo3.jpeg" />
+    <img width="200px" src="./images/my-best-photo.jpeg" />
+    <img width="200px" src="./images/my-best-photo2.jpeg" />
+    <img width="200px" src="./images/my-best-photo3.jpeg" />
 ```
 
 5. After the images, add information about your superheroine team members' names and superpowers. Use `<p>` to structure your paragraphs. E.g.,
@@ -131,17 +131,11 @@ References:
 
 [Images](https://www.w3schools.com/html/html_images.asp)
 
-[Tables](https://www.w3schools.com/html/html_tables.asp)
-
-[Lists](https://www.w3schools.com/html/html_lists.asp)
-
 [class Attribute](https://www.w3schools.com/html/html_classes.asp)
 
 [id Attribute](https://www.w3schools.com/html/html_id.asp)
 
 [<div> tag](https://www.w3schools.com/tags/tag_div.ASP)
-
-[<section> tag](https://www.w3schools.com/tags/tag_section.asp)
 
 ### CSS
 
@@ -156,7 +150,5 @@ References:
 [Height and Width](https://www.w3schools.com/css/css_dimension.asp)
 
 [Text](https://www.w3schools.com/css/css_text.asp)
-
-[Tables](https://www.w3schools.com/css/css_table.asp)
 
 [Specificity](https://www.w3schools.com/css/css_specificity.asp)

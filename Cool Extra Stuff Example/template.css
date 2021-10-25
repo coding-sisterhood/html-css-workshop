@@ -1,92 +1,39 @@
 body {
   margin-bottom: 100px;
-  background-image: url("./assets/background.jpeg");
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: mistyrose;
 }
 
-section {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-self: center;
+div {
+  background-color: mistyrose;
 }
 
-#banner {
-  background-color: white;
-  text-align: -webkit-center;
-  padding-bottom: 10px;
-  margin-left: -30px;
-  margin-right: -30px;
-}
-
-#CS-logo {
-  align-self: center;
-}
-
-.logo {
-  display: flex;
-  width: 500px;
-  height: 150px;
-  justify-content: center;
-  overflow: hidden;
-}
-
-.superhero-pics {
+#logo {
   display: flex;
   justify-content: center;
-  overflow: hidden;
+}
+
+#images {
+  display: flex;
+  justify-content: center;
+}
+
+.photo {
+  margin: 30px;
   width: 300px;
   height: 300px;
-}
-
-.tables {
-  justify-content: space-evenly;
-  margin-top: 50px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
 }
 
 h1 {
   color: #ff44b6;
-  font-size: 30px;
+  text-align: center;
+  font-size: 25px;
 }
 
 p {
   color: black;
   text-align: center;
-}
-
-#quote {
-  font-family: cursive;
-  font-weight: bold;
   font-size: 20px;
-}
-
-tr,
-th,
-td {
-  border: 1px solid black;
-  padding: 10px;
-}
-
-th {
-  text-align: -webkit-center;
-  padding-top: 30px;
-}
-
-td {
-  width: 200px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  font-size: 20px;
-}
-
-li {
-  padding: 5px;
-}
-
-#kahmen-bio,
-#tania-bio {
-  height: 100%;
-  background-color: mistyrose;
-  flex-direction: row;
 }
