@@ -22,7 +22,7 @@ Add the skeleton of your html file: `<html>` tag containing `<head>` and `<body>
 <!DOCTYPE html>
 <html lang="en">
     <head></head>
-    <body><body>
+    <body></body>
 </html>
 ```
 
