@@ -42,7 +42,7 @@ Inside the `<body>` tag, add a `<p>` tag that contains the name of the project:
     <head></head>
     <body>
         <p>Superheroines</p>
-    <body>
+    </body>
 </html>
 ```
 
